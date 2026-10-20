@@ -34,3 +34,15 @@
 
 
 ## Структура репозиторію
+text
+ruby-course/
+├── README.md
+├── Lab1/
+│   └── task1.rb
+│   └── task2.rb
+│   └── task2.rb
+├── Lab2/
+│   └── main.rb
+├── Lab3/
+│   └── ...
+└── ...

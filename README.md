@@ -19,7 +19,7 @@
 |---|---|---|---|
 | 1 | Основи Ruby | ✅ Виконано | [Lab1](https://github.com/Kostik565/Technology-stack_/tree/6cce6346c34f70ae15f472bbe2ad8e88a743dfa9/Lab1) |
 | 2 | Умовні конструкції та цикли | 🚧 У процесі | [Lab2](https://github.com/Kostik565/Technology-stack_/tree/8ee44eff958516bb5012aca6d70e01f142aeae6a/Lab2) |
-| 3 | Масиви та хеші | ✅  Виконано | — |
+| 3 | Масиви та хеші | ✅  Виконано | [Lab3](https://github.com/Kostik565/Technology-stack_/tree/49e77693447fd6df5e98f99c3ee7ad41ca4645fe/Lab3) |
 | 4 | Методи та блоки | ⬜ Не розпочато | — |
 | 5 | Основи ООП | ⬜ Не розпочато | — |
 | 6 | Класи та успадкування | ⬜ Не розпочато | — |
